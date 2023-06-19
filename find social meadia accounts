@@ -1,0 +1,14 @@
+python3 -m pip install --user pipenv
+ pip --version
+ apt install python-pip
+ clone 
+ git clone https://github.com/sherlock-project/sherlock.git
+ create one work directory as a VINOD
+ mkdir VINOD
+cd VINOD
+
+python3 -m pip install -r requirements.txt
+
+python3 sherlock --timeout 1 alam_vinod 
+
+then enter
